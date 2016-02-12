@@ -1,0 +1,8 @@
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\bin\Debug\Distance.exe.config
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\bin\Debug\Distance.exe
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\bin\Debug\Distance.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\bin\Debug\TestingRoom.dll
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\bin\Debug\TestingRoom.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\obj\Debug\Distance.exe
+C:\Users\ignaes\Desktop\lise\ulearn\2\Distance\obj\Debug\Distance.pdb

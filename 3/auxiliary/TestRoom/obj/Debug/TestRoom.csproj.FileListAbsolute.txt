@@ -1,0 +1,9 @@
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\bin\Debug\TestingRoom.dll.config
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\bin\Debug\TestingRoom.dll
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\bin\Debug\TestingRoom.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestRoom.csprojResolveAssemblyReference.cache
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestingRoom.Properties.Resources.resources
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestingRoom.TestRoom.resources
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestRoom.csproj.GenerateResource.Cache
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestingRoom.dll
+C:\Users\ignaes\Desktop\lise\ulearn\3\auxiliary\TestRoom\obj\Debug\TestingRoom.pdb

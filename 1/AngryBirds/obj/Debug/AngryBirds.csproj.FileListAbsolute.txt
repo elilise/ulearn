@@ -1,0 +1,8 @@
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\bin\Debug\AngryBirds.exe.config
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\bin\Debug\AngryBirds.exe
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\bin\Debug\AngryBirds.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\bin\Debug\TestingRoom.dll
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\bin\Debug\TestingRoom.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\obj\Debug\AngryBirds.exe
+C:\Users\ignaes\Desktop\lise\ulearn\1\AngryBirds\obj\Debug\AngryBirds.pdb

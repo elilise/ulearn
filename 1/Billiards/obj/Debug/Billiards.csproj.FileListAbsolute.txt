@@ -1,0 +1,8 @@
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\bin\Debug\Billiards.exe
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\bin\Debug\Billiards.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\bin\Debug\TestingRoom.dll
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\bin\Debug\TestingRoom.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\obj\Debug\Billiards.exe
+C:\Users\ignaes\Desktop\lise\ulearn\1\Billiards\obj\Debug\Billiards.pdb

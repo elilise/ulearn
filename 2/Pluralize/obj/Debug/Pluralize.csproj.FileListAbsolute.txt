@@ -1,0 +1,7 @@
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\bin\Debug\rubles.txt
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\bin\Debug\Pluralize.exe
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\bin\Debug\Pluralize.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\obj\Debug\Pluralize.exe
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\obj\Debug\Pluralize.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\2\Pluralize\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
