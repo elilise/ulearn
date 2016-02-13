@@ -38,24 +38,31 @@ namespace Fractals
 			form.ShowDialog();
 		}
 
-		private static void SetRandomTransformPixel (int random)
-		{
-			if (random == 0)
-
-		}
-
-		static Bitmap CreateDragonImage(int iterationsCount)
+	    static Bitmap CreateDragonImage(int iterationsCount)
 		{
 			var image = new Bitmap(Size, Size);
 			var g = Graphics.FromImage(image);
 			g.FillRectangle(Brushes.Black, 0, 0, image.Width, image.Height);
-			var random = new Random();
-			SetPixel(image, 1, 0);
-			int iterationNumber = 0;
-			while (iterationNumber < iterationsCount)
-			{
-				var nextNumber = random.Next(2);
-			}
+
+            var random = new Random();
+            var x = 1D;
+            var y = 0D;
+            for (int i = 0; i < iterationsCount; i++)
+		    {
+		        var choise = random.Next(1);
+		        if (choise == 1)
+		        {
+		            x = (x * Math.Cos(Math.PI/4) - y * Math.Sin(Math.PI/4)) / Math.Sqrt(2);
+		            y = (x * Math.Sin(Math.PI/4) + y * Math.Cos(Math.PI/4)) / Math.Sqrt(2);
+		        }
+		        else
+		        {
+                    x = (x * Math.Cos(3 * Math.PI / 4) - y * Math.Sin(3 * Math.PI / 4)) / Math.Sqrt(2) + 1;
+                    y = (x * Math.Sin(3 * Math.PI / 4) + y * Math.Cos(3 * Math.PI / 4)) / Math.Sqrt(2);
+                }
+
+                SetPixel(image, x, y);
+		    }
 			/*
 			Начните с точки (1, 0)
 			На каждой итерации:

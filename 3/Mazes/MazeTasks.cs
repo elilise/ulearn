@@ -4,12 +4,10 @@
 	{
 		public static void MoveToIndicatedDirection(Robot robot, int steps, Direction direction)
 		{
-			int doneSteps = 0;
-			while (doneSteps < steps)
-			{
-				robot.MoveTo(direction);
-				doneSteps += 1;
-			}
+		    for (int doneSteps = 0; doneSteps < steps; doneSteps++)
+		    {
+                robot.MoveTo(direction);
+            }
 		}
 
 		public static void MoveOutFromEmptyMaze(Robot robot, int width, int height)
