@@ -49,16 +49,18 @@ namespace Fractals
             var y = 0D;
             for (int i = 0; i < iterationsCount; i++)
 		    {
-		        var choise = random.Next(1);
+		        var choise = random.Next(2);
 		        if (choise == 1)
 		        {
+			        var originalX = x;
 		            x = (x * Math.Cos(Math.PI/4) - y * Math.Sin(Math.PI/4)) / Math.Sqrt(2);
-		            y = (x * Math.Sin(Math.PI/4) + y * Math.Cos(Math.PI/4)) / Math.Sqrt(2);
+		            y = (originalX * Math.Sin(Math.PI/4) + y * Math.Cos(Math.PI/4)) / Math.Sqrt(2);
 		        }
 		        else
 		        {
+			        var originalX = x;
                     x = (x * Math.Cos(3 * Math.PI / 4) - y * Math.Sin(3 * Math.PI / 4)) / Math.Sqrt(2) + 1;
-                    y = (x * Math.Sin(3 * Math.PI / 4) + y * Math.Cos(3 * Math.PI / 4)) / Math.Sqrt(2);
+                    y = (originalX * Math.Sin(3 * Math.PI / 4) + y * Math.Cos(3 * Math.PI / 4)) / Math.Sqrt(2);
                 }
 
                 SetPixel(image, x, y);
