@@ -1,0 +1,12 @@
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\bin\Debug\DragonFractal.exe.config
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\bin\Debug\DragonFractal.exe
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\bin\Debug\DragonFractal.pdb
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\obj\Debug\DragonFractal.csprojResolveAssemblyReference.cache
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\obj\Debug\DragonFractal.exe
+C:\Users\ignaes\Desktop\lise\ulearn\3\DragonFractal\obj\Debug\DragonFractal.pdb
+D:\learn\3\DragonFractal\bin\Debug\DragonFractal.exe.config
+D:\learn\3\DragonFractal\obj\Debug\DragonFractal.exe
+D:\learn\3\DragonFractal\obj\Debug\DragonFractal.pdb
+D:\learn\3\DragonFractal\bin\Debug\DragonFractal.exe
+D:\learn\3\DragonFractal\bin\Debug\DragonFractal.pdb
+D:\learn\3\DragonFractal\obj\Debug\DragonFractal.csprojResolveAssemblyReference.cache

@@ -1,8 +1,0 @@
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\bin\names.exe.config
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\bin\names.exe
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\bin\names.pdb
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\bin\ZedGraph.dll
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\bin\ZedGraph.xml
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\obj\Debug\names.csprojResolveAssemblyReference.cache
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\obj\Debug\names.exe
-C:\Users\ignaes\Desktop\lise\ulearn\4\names\obj\Debug\names.pdb

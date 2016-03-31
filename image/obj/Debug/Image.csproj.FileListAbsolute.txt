@@ -1,0 +1,9 @@
+D:\learn\image\bin\Debug\Recognizer.exe.config
+D:\learn\image\bin\Debug\eurobot.bmp
+D:\learn\image\bin\Debug\Recognizer.exe
+D:\learn\image\bin\Debug\Recognizer.pdb
+D:\learn\image\obj\Debug\Image.csprojResolveAssemblyReference.cache
+D:\learn\image\obj\Debug\Recognizer.Properties.Resources.resources
+D:\learn\image\obj\Debug\Image.csproj.GenerateResource.Cache
+D:\learn\image\obj\Debug\Recognizer.exe
+D:\learn\image\obj\Debug\Recognizer.pdb

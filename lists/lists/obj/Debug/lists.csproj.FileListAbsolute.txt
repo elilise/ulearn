@@ -1,0 +1,6 @@
+D:\Diadoc.DocsApiClient\lists\lists\bin\Debug\lists.exe.config
+D:\Diadoc.DocsApiClient\lists\lists\bin\Debug\lists.exe
+D:\Diadoc.DocsApiClient\lists\lists\bin\Debug\lists.pdb
+D:\Diadoc.DocsApiClient\lists\lists\obj\Debug\lists.csprojResolveAssemblyReference.cache
+D:\Diadoc.DocsApiClient\lists\lists\obj\Debug\lists.exe
+D:\Diadoc.DocsApiClient\lists\lists\obj\Debug\lists.pdb
